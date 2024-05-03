@@ -28,5 +28,9 @@ LINK TRELLO:
 
 https://trello.com/b/msBCIeDu/nutav
 
+DIAGRAMA ARQUITECTURA
 ![Diagrama_Arquitectura](https://github.com/jusuga2001/Nutav_concurso_3/blob/main/diagramaArquitectura.jpeg)
+
+DIAGRAMA BASE DE DATOS
+![Diagrama_Base_Datos](https://github.com/jusuga2001/Nutav_concurso_3/blob/main/diagramaBaseDatos.png)
 
