@@ -34,3 +34,11 @@ DIAGRAMA ARQUITECTURA
 DIAGRAMA BASE DE DATOS
 ![Diagrama_Base_Datos](https://github.com/jusuga2001/Nutav_concurso_3/blob/main/MODELO%20DATABASE%20OFICIAL.png)
 
+-Un guia puede tener muchos tours, pero un tour solo puede tener un guia.
+-Un guia puede tener muchas reservas de sus tours, pero una reserva solo puede tener un guia.
+-Un cliente puede tener muchas reservas, pero una reserva solo puede tener un cliente.
+-Una reserva solo puede tener un tour, pero un tour puede tener muchas reservas.
+-Un tour puede tener mucha media(fotos, videos), pero una media solo puede pertenecer a un tour.
+-Un tour solo pertenece a una categoria(enum), y una categoria tiene muchos tours.
+-Un tour solo puede tener un idioma(enum), y un idioma puede tener muchos tours.
+
