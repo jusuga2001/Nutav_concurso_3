@@ -32,5 +32,5 @@ DIAGRAMA ARQUITECTURA
 ![Diagrama_Arquitectura](https://github.com/jusuga2001/Nutav_concurso_3/blob/main/diagramaArquitectura.jpeg)
 
 DIAGRAMA BASE DE DATOS
-![Diagrama_Base_Datos](https://github.com/jusuga2001/Nutav_concurso_3/blob/main/diagramaBaseDatos.png)
+![Diagrama_Base_Datos](https://github.com/jusuga2001/Nutav_concurso_3/blob/main/MODELO%20DATABASE%20OFICIAL.png)
 
